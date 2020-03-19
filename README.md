@@ -6,20 +6,22 @@ Course notes and labs done at the African Masters in Machine Intelligence Letcur
 # Week 1
 
 ## Session 1: Introdction to Text Classification
-lecture notes
+[lecture notes](https://github.com/CateGitau/ammi-nlp/blob/master/week_01/lecture1.pdf)
+
 labs:
-- text classification with Naive Bayes
+- [text classification with Naive Bayes](https://github.com/CateGitau/ammi-nlp/blob/master/week_01/session1/Catherine_Gitau_lab1.ipynb)
 
 
-## Session 2: Word vectors
-lecture notes
+## Session 2: Word representations
+[lecture notes](https://github.com/CateGitau/ammi-nlp/blob/master/week_01/lecture2.pdf)
+
 labs:
-- word_vectors
+- [word_vectors](https://github.com/CateGitau/ammi-nlp/blob/master/week_01/session2/Catherine_Gitau_lab2.py)
 
 ## Section 3: Ngrams
-lecture notes
-- ngram
-- bigram
+[lecture notes]()
+- [ngram](http://localhost:8888/notebooks/ammi-nlp/week_01/session3/ngram.ipynb)
+- [bigram](http://localhost:8888/notebooks/ammi-nlp/week_01/session3/bigram.ipynb)
 
 
 # Week 2
