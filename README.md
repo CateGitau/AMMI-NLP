@@ -18,8 +18,10 @@ labs:
 labs:
 - [word_vectors](https://github.com/CateGitau/ammi-nlp/blob/master/week_01/session2/Catherine_Gitau_lab2.py)
 
-## Section 3: Ngrams
+## Section 3: Ngram Language Modeling
 [lecture notes]()
+
+labs:
 - [ngram](http://localhost:8888/notebooks/ammi-nlp/week_01/session3/ngram.ipynb)
 - [bigram](http://localhost:8888/notebooks/ammi-nlp/week_01/session3/bigram.ipynb)
 
